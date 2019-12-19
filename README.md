@@ -1,5 +1,5 @@
-# Montclair
+# Steamboat Transit
 
-This is a simple project to show a live view of all the buses in the Birmigham, AL Transit Systems.
+Real Time Bus Tracking for Steamboat Springs, CO
 
-https://montclair.line72.net/
+https://steamboat.line72.net
