@@ -1,7 +1,7 @@
 {
-    "short_name": "Steamboat Transit",
-    "name": "Steamboat Transit",
-    "description": "Real Time Bus Tracking for Steamboat Springs, CO",
+    "short_name": "Go Steamboat",
+    "name": "Go Steamboat",
+    "description": "Real Time Tracking of the Buses for Steamboat Springs, CO",
     "icons": [
         {
             "src": "favicon.ico",

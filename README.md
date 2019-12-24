@@ -1,5 +1,5 @@
-# Steamboat Transit
+# Go Steamboat
 
-Real Time Bus Tracking for Steamboat Springs, CO
+Real Time Tracking of the Buses for Steamboat Springs, CO
 
 https://steamboat.gotransitapp.com
