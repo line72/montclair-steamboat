@@ -1,4 +1,4 @@
-# Go Steamboat
+# GoSteamboat
 
 Real Time Tracking of the Buses for Steamboat Springs, CO
 
