@@ -2,4 +2,4 @@
 
 Real Time Bus Tracking for Steamboat Springs, CO
 
-https://steamboat.line72.net
+https://steamboat.gotransitapp.com
