@@ -26,7 +26,7 @@ class Configuration {
                                              [
                                                  [1, 'Blue', 'Blue Line', '2F54E8'],
                                                  [2, 'Green', 'Green Line', '53EB05'],
-                                                 [3, 'Night Condos', 'Night Line Condos 19%2F20', 'FC75E5'],
+                                                 [3, 'Night Condos', 'Night Line Condos 19%252F20', 'FC75E5'],
                                                  [4, 'Night Winter', 'Night Line Summer', 'F00089'],
                                                  [5, 'Orange', 'Orange Line', 'ED7D31'],
                                                  [6, 'Purple', 'Purple Line', '8000F6'],
