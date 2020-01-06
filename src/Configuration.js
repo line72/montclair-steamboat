@@ -22,7 +22,7 @@ class Configuration {
             {
                 name: 'Routes',
                 parser: new RouteShoutParser('', '',
-                                             'https://steamboatspringstransit.routematch.com/',
+                                             'https://steamboat.gotransitapp.com/api/no.php/',
                                              [
                                                  [1, 'Blue', 'Blue Line', '2F54E8'],
                                                  [2, 'Green', 'Green Line', '53EB05'],
