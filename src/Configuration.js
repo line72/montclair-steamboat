@@ -21,6 +21,7 @@ class Configuration {
         this.agencies = [
             {
                 name: 'Routes',
+                hideRouteNumber: true,
                 parser: new RouteShout2Parser('https://steamboat.gotransitapp.com/api/no.php/routeshout/api/v2.0',
                                               1, 'RouteShoutAPIAdapterv2.0')
             }
