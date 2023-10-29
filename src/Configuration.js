@@ -18,6 +18,10 @@ class Configuration {
     constructor() {
         // Steamboat Sprints, CO
         this.center = [40.469178, -106.823354];
+        this.tileserver = {
+            url: 'https://steamboat.gotransitapp.com/tiles/{z}/{x}/{y}.png',
+            subdomains: ''
+        };
         this.agencies = [
             {
                 name: 'Routes',
